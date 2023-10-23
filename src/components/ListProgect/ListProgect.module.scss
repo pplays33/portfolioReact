@@ -1,0 +1,14 @@
+.container{
+    max-width: 700px;
+    margin: 0 auto;
+    
+    h2{
+        margin-top: 20px;
+        margin-bottom: 20px;
+        text-align: center;
+        background: linear-gradient(91deg, #2F971E -7.54%, #3634A2 99.76%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+}
